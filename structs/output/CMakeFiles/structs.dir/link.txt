@@ -1,1 +1,0 @@
-/bin/clang-9 -g   CMakeFiles/structs.dir/main.c.o  -o structs 

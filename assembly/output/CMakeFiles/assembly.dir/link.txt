@@ -1,1 +1,0 @@
-/bin/clang-9 -g   CMakeFiles/assembly.dir/main.c.o  -o assembly 

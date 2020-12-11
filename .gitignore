@@ -8,7 +8,7 @@ main.out
 cmake-build-debug
 .idea
 *.out
-output
+/**/output/**
 CMakeLists.txt.user
 .cache
 build
